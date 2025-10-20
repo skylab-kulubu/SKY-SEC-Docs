@@ -1,0 +1,8 @@
+{
+  "label": "SKY Guard",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Would you like to secure your backend server?"
+  }
+}

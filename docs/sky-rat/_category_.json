@@ -1,0 +1,8 @@
+{
+  "label": "SKY Rat",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Simulates the behavior of Remote Access Trojans (RATs)"
+  }
+}

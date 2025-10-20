@@ -1,0 +1,8 @@
+{
+  "label": "Active Directory Penetration Tools",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "This repository is a rewritten version of the existing Active Directory penetration testing tools, using lower-level and more stable versions."
+  }
+}
